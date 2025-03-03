@@ -1,0 +1,12 @@
+?dir={payload}
+?action={payload}
+?date={payload}
+?detail={payload}
+?file={payload}
+?download={payload}
+?path={payload}
+?folder={payload}
+?include={payload}
+?page={payload}
+?locate={payload}
+?site={payload}
